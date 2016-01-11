@@ -1,2 +1,2 @@
-# Maquina_Vagrant_final
-Como montar la máquina vagrant final
+# Archivos necesarios
+Aquí teneis los archivos de configuración de vagrant para crear una máquina como la del proyecto final
